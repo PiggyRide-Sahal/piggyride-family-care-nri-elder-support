@@ -1,1 +1,15 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "PiggyRide Family Care",
+  "description": "Premium elder support for NRIs with parents in Delhi NCR & Punjab. Dedicated caregivers, medical liaison, 24/7 updates. Early access only.",
+  "url": "https://forms.gle/1r2e4n6o6Q2B9Ydj6",
+  "telephone": "+91-6364636263",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-6364636263",
+    "contactType": "Customer Service",
+    "areaServed": ["IN"]
+  },
+  "sameAs": ["https://github.com/yourusername/piggyride-family-care-nri-elder-support"]
+}
