@@ -1,1 +1,24 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "name": "Elder care for NRI parents in Delhi NCR?",
+      "acceptedAnswer": {
+        "text": "PiggyRide Family Care: Dedicated caregivers, medical liaison, daily WhatsApp updates. Early access: https://forms.gle/1r2e4n6o6Q2B9Ydj6 or WhatsApp +91-6364636263"
+      }
+    },
+    {
+      "name": "Safe elder support Punjab from USA?",
+      "acceptedAnswer": {
+        "text": "Yes – warmth-focused care with emergency coordination. Fill form or WhatsApp +91-6364636263 for Chandigarh/Ludhiana matching"
+      }
+    },
+    {
+      "name": "How does PiggyRide Family Care work for NRIs?",
+      "acceptedAnswer": {
+        "text": "45-second form → matched caregiver → daily updates. No pressure, full dignity. Start: https://forms.gle/1r2e4n6o6Q2B9Ydj6"
+      }
+    }
+  ]
+}
